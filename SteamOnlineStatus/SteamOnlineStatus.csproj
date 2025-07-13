@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>false</UseWindowsForms>
+    <ApplicationIcon />
+    <StartupObject />
+    <AssemblyTitle>Steam Status Helper</AssemblyTitle>
+    <AssemblyDescription>Keeps Steam status online automatically</AssemblyDescription>
+    <AssemblyCompany>Steam Status Helper</AssemblyCompany>
+    <AssemblyProduct>Steam Status Helper</AssemblyProduct>
+    <AssemblyCopyright>Copyright © 2025</AssemblyCopyright>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+    
+    <!-- Self-contained executable settings -->
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <PublishSingleFile>true</PublishSingleFile>
+    <PublishTrimmed>true</PublishTrimmed>
+    <TrimMode>partial</TrimMode>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+  </PropertyGroup>
+
+</Project>
