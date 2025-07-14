@@ -37,7 +37,7 @@ Some games have a bug where they automatically set your Steam status to "Offline
 ### Build from Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Steam-Online-Status.git
+git clone https://github.com/Chaxiraxi/Steam-Online-Status.git
 cd Steam-Online-Status
 
 # Build as self-contained executable
